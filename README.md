@@ -56,7 +56,7 @@ setcookie(
     bool $httponly = false  <---- ustawić na true
 ): bool
 ```
-### Zły Content-Type przez co captcha przychodzi w takiej formie [captchatxt](https://github.com/prkx/fandemonium/blob/main/captcha.php)
+### Zły Content-Type przez co captcha przychodzi w takiej formie [cpt](https://github.com/DeVianney/fandemonium/blob/main/captcha.php)
 ![Contentype](https://github.com/DeVianney/fandemonium/blob/main/ctype.png)
 
 Rozwiązanie:
